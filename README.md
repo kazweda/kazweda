@@ -15,12 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### GitHub Stats
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kazweda&theme=tokyonight)
+## GitHub Stats
+<a href="https://github.com/kazweda/kazweda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kazweda&theme=tokyonight"
+    alt="GitHub Stats Card" />
+</a>
+<a href="https://github.com/kazweda/kazweda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazweda&layout=compact&theme=tokyonight"
+    alt="GitHub Top Languages Card" />
+</a>
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kazweda&layout=compact&theme=tokyonight)
-
-### Technologies & Tools
+## Languages & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
