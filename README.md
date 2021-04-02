@@ -6,11 +6,11 @@
 
 ## GitHub Stats
 <a href="https://github.com/kazweda/kazweda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kazweda&theme=tokyonight"
+  <img align="center" src="https://github-readme-stats-psi-wheat.vercel.app/api?username=kazweda&theme=tokyonight"
     alt="GitHub Stats Card" />
 </a>
 <a href="https://github.com/kazweda/kazweda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazweda&layout=compact&theme=tokyonight"
+  <img align="center" src="https://github-readme-stats-psi-wheat.vercel.app/api/top-langs/?username=kazweda&layout=compact&theme=tokyonight"
     alt="GitHub Top Languages Card" />
 </a>
 
