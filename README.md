@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on site crawler.
 - 🌱 I’m currently learning Next.js, SwiftUI.
 - 🚲 🥁
+- [Google Cloud Training Badges](https://google.qwiklabs.com/public_profiles/4dba967b-2984-4962-8ea7-c906e8c7ff9b)
 
 ## GitHub Stats
 <a href="https://github.com/kazweda/kazweda">
