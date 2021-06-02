@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on site crawler.
-- 🌱 I’m currently learning Next.js, SwiftUI.
+- 🌱 I’m currently studying Next.js, SwiftUI.
 - 🚲 🥁
 - [Google Cloud Training Badges](https://google.qwiklabs.com/public_profiles/4dba967b-2984-4962-8ea7-c906e8c7ff9b)
 
