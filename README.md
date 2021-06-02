@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a software engineer.🇯🇵
 - 🔭 I’m currently working on site crawler.
 - 🌱 I’m currently studying Next.js, SwiftUI.
 - 🚲 🥁
