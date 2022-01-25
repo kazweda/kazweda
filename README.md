@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 I'm a software engineer.🇯🇵
-- 🔭 I’m currently working on site crawler.
-- 🌱 I’m currently studying Next.js, SwiftUI.
-- 🚲 🥁
+- 🔭 I’m currently working on Sales Management System.
+- 🌱 I’m currently researching Low Code Development.
+- 🚲 🥁 🎸
 - [Google Cloud Training Badges](https://google.qwiklabs.com/public_profiles/4dba967b-2984-4962-8ea7-c906e8c7ff9b)
 
 ## GitHub Stats
