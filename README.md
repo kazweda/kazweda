@@ -6,6 +6,7 @@ I'm a software engineer.🇯🇵
 - 🚲 🥁 🎸
 - [Google Cloud Training Badges](https://google.qwiklabs.com/public_profiles/4dba967b-2984-4962-8ea7-c906e8c7ff9b)
 - [Google Developer Profile](https://g.dev/kazweda)
+- ![](https://www.codewars.com/users/kazweda/badges/large)
 
 ## GitHub Stats
 <a href="https://github.com/kazweda/kazweda">
